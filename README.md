@@ -31,7 +31,7 @@ This project fetches and displays the **current temperature** of any location us
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/weather-temperature-finder.git
+   git clone https://github.com/nandita5305/weather-temperature-finder.git
    ```
 2. Navigate to the project directory:
    ```bash
