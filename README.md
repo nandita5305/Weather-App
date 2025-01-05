@@ -16,7 +16,19 @@ This project fetches and displays the **current temperature** of any location us
 
 ## 📸 Preview
 
-*Replace this section with a screenshot or GIF of your project.*
+*Here is a preview of the project in action.*
+
+### Project Screenshots:
+
+![Screenshot 1](https://github.com/nandita5305/Weather-App/blob/main/sample/sample%201.png)
+![Screenshot 2](https://github.com/nandita5305/Weather-App/blob/main/sample/sample%203.png)
+![Screenshot 3](https://github.com/nandita5305/Weather-App/blob/main/sample/sample%202.png)
+
+### Demo Video:
+
+Click below to watch the demo video:
+
+Alternatively, you can [download and play the demo video](https://github.com/nandita5305/Weather-App/blob/main/sample/demo.mp4).
 
 ---
 
